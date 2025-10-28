@@ -1,0 +1,33 @@
+# Digit Concept : to find no. of digits in a number do following steps-
+                    count=0;
+                    while(num!=0){
+                        num=num/10;
+                        count++;
+                    }
+
+
+# Reverse a Number : reverse=0;
+                    while(num!=0){
+                        remainder=num%10;
+                        num=num/10;
+                        reverse= reverse*10 + remainder;
+                    }
+
+
+# Palindrome Number : Palindrome no. are the no. whose reverse is same as the original no.
+                        reverse==original
+
+
+#Armstrong Number : An Armstrong no. in which the sum of digits to the power no. of digits is equal to the original no.
+                    -> let Number1 be a no. in which the no. of of digits is x
+
+                    while(Number1!=0){
+                    remainder = Number1%10;
+                    int Number2 = Number2 + power(remainder,x)  //here x is the no. of digits in Number1
+                    Number1=Number1/10;
+                    }
+                    if(Number2==Number1){
+                     //the number is armstrong
+                    }
+
+

@@ -327,5 +327,150 @@ for(int j=1;j<n;j++){                //   *
 // ABCDEDCBA
 } */
 
+/* int main() 
+{
+    int n;
+    cin>>n;
+    for(int i=1;i<=n;i++){
+      for(int j=1;j<=i;j++){
+        char ch='E';
+        if(i==j){
+          cout<<ch;
+        }
+        else if(i>j){
+         for(int k=1;k<=i-j;k++){
+           ch--;
+         }
+          cout<<ch;
+        }
+      }
+      cout<<endl;
+    }
+    return 0;
+    // E
+    // DE
+    // CDE
+    // BCDE
+    // ABCDE
+} */
+
+/* int main() {
+    int n;
+    cin>>n;
+    //upper half
+  for(int i=0;i<n;i++){
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    for(int j=0;j<2*i;j++){
+      cout<<" ";
+    }
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    cout<<endl;
+    }
+    
+    //bottom half
+      for(int i=n;i>0;i--){
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    for(int j=0;j<2*i;j++){
+      cout<<" ";
+    }
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    cout<<endl;
+    }
+  return 0;
+
+  //diamond void
+// **************
+// ******  ******
+// *****    *****
+// ****      ****
+// ***        ***
+// **          **
+// *            *             
+// *            *
+// **          **
+// ***        ***
+// ****      ****
+// *****    *****
+// ******  ******
+}  */
+
+/* int main() {
+    int n;
+    cin>>n;
+    //upper half
+    for(int i=n;i>0;i--){
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    for(int j=0;j<2*i;j++){
+      cout<<" ";
+    }
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    cout<<endl;
+    }
+    //lower half
+    for(int i=0;i<n;i++){
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    for(int j=0;j<2*i;j++){
+      cout<<" ";
+    }
+    for(int j=0;j<n-i;j++){
+      cout<<"*";
+    }
+    cout<<endl;
+    }
+  return 0;
+// *            *
+// **          **
+// ***        ***
+// ****      ****
+// *****    *****
+// ******  ******
+// **************
+// ******  ******
+// *****    *****
+// ****      ****
+// ***        ***
+// **          **
+// *            *
+}  */
+
+/* int main(){
+  int n;
+  cin>>n;
+  for(int i=1;i<=n;i++){
+    for(int j=1;j<=n;j++){
+     if(i==1 || i==n || j==1 || j==n){
+       cout<<"*";
+     }
+     else{
+       cout<<" ";
+     }
+    }
+    cout<<endl;
+  }
+  
+  return 0;
+//    *******
+//    *     *
+//    *     *
+//    *     *
+//    *     *
+//    *     *
+//    *******
+
+} */
 //thanks for watching
 

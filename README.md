@@ -170,7 +170,7 @@ This is my planned learning path. I'll update this as I progress:
 
 | Category | Problems Added | Status |
 |----------|---------------|--------|
-| Patterns | 15+ | ✅ Active |
+| Patterns | 22 | ✅ Active |
 | Arrays | 0 | 📅 Planned |
 | Strings | 0 | 📅 Planned |
 | Sorting | 0 | 📅 Planned |

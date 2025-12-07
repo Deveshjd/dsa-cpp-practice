@@ -29,9 +29,7 @@ This repository documents my DSA learning journey through C++ problem solving. S
 - Planning problem categories and difficulty progression
 
 ### 📋 Coming Soon
-- Array problems
 - String manipulation problems  
-- Basic sorting and searching algorithms
 
 ## Repository Structure
 
@@ -46,7 +44,7 @@ DSA-CPP-Practice/
 ├── linked-lists/              (Coming Soon)
 ├── stacks-and-queues/         (Coming Soon)
 ├── trees/                     (Coming Soon)
-├── sorting-and-searching/     (Coming Soon)
+├── sorting-and-searching/
 ├── dynamic-programming/       (Coming Soon)
 ├── templates/
 │   └── basic-template.cpp

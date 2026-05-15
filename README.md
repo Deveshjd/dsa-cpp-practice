@@ -39,7 +39,7 @@ DSA-CPP-Practice/
 │   ├── star-patterns.cpp
 │   ├── number-patterns.cpp
 │   └── README.md
-├── arrays/                    (Coming Soon)
+├── arrays/
 ├── strings/                   (Coming Soon)  
 ├── linked-lists/              (Coming Soon)
 ├── stacks-and-queues/         (Coming Soon)
@@ -117,8 +117,8 @@ This is my planned learning path. I'll update this as I progress:
 
 ### Phase 1: Foundations (Current)
 - [x] **Patterns**: Star patterns, number patterns, character patterns
-- [ ] **Basic Math**: Prime numbers, GCD/LCM, digit manipulation
-- [ ] **Arrays**: Basic array operations, searching, two pointers
+- [x] **Basic Math**: Prime numbers, GCD/LCM, digit manipulation
+- [x] **Arrays**: Basic array operations, searching, two pointers
 
 ### Phase 2: Core Concepts  
 - [ ] **Strings**: Pattern matching, palindromes, anagrams
@@ -169,7 +169,7 @@ This is my planned learning path. I'll update this as I progress:
 | Category | Problems Added | Status |
 |----------|---------------|--------|
 | Patterns | 22 | ✅ Active |
-| Arrays | 0 | 📅 Planned |
+| Arrays | 8 | ✅ Active |
 | Strings | 0 | 📅 Planned |
 | Sorting | 0 | 📅 Planned |
 | Trees | 0 | 📅 Planned |
@@ -177,7 +177,7 @@ This is my planned learning path. I'll update this as I progress:
 | DP | 0 | 📅 Planned |
 
 **Last Updated**: [Current Date]  
-**Total Problems**: 15+  
+**Total Problems**: 30  
 **Current Focus**: Pattern Problems and Basic Logic Building
 
 ## C++ Tips for Beginners
@@ -225,6 +225,7 @@ for(int i = 1; i <= rows; i++) {
 - Love Babbar DSA Series
 - Striver's A2Z DSA Course
 - CodeHelp by Babbar
+- Rising Brain DSA sheet
 
 ## Future Plans
 

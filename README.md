@@ -79,37 +79,6 @@ g++ -o patterns star-patterns.cpp
 ./patterns
 ```
 
-## Problem Format
-
-Each C++ solution follows this structure:
-
-```cpp
-/*
-Problem: [Problem Name]
-Category: [Pattern/Array/String/etc.]
-Difficulty: [Beginner/Easy/Medium/Hard]
-
-Problem Description:
-[Brief description of what the problem asks for]
-
-Approach:
-[Explanation of the approach and logic used]
-
-Time Complexity: O(?)
-Space Complexity: O(?)
-*/
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    // Solution implementation
-    
-    // Test cases or examples
-    
-    return 0;
-}
-```
 
 ## Roadmap
 
@@ -135,10 +104,6 @@ This is my planned learning path. I'll update this as I progress:
 - [ ] **Dynamic Programming**: Classic DP problems
 - [ ] **Backtracking**: N-Queens, Sudoku solver
 
-### Phase 5: Interview Preparation
-- [ ] **LeetCode Problems**: Easy to Medium level
-- [ ] **Company-specific**: Popular interview questions
-- [ ] **Mock Interviews**: Practice sessions
 
 ## How to Use
 
@@ -169,7 +134,7 @@ This is my planned learning path. I'll update this as I progress:
 | Category | Problems Added | Status |
 |----------|---------------|--------|
 | Patterns | 22 | ✅ Active |
-| Arrays | 8 | ✅ Active |
+| Arrays | 11 | ✅ Active |
 | Strings | 0 | 📅 Planned |
 | Sorting | 0 | 📅 Planned |
 | Trees | 0 | 📅 Planned |

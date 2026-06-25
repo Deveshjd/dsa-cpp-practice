@@ -223,3 +223,15 @@ Feel free to create an issue or reach out!
 *"The journey of a thousand miles begins with one step." - Starting with patterns and building up to advanced DSA concepts.*
 
 **Last Updated**: Today 🎯
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deveshjd/dsa-cpp-practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deveshjd/dsa-cpp-practice/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
